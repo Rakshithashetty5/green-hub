@@ -1,0 +1,45 @@
+body{
+    background-image: url(sus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:30rem;
+    
+    background-position: center;
+    margin: 0;
+    
+    
+}
+.title1 {
+    
+    font-family:'Times New Roman';
+    text-align: center;
+
+    font-size: 3rem;
+    color: white;
+    
+    
+
+    
+}
+.nav   li{
+    display: inline;
+    padding: 2rem;
+    text-decoration: none;
+
+}
+.nav{
+    text-align: center;
+    font-size: 2rem;
+    /* margin-top: 5rem; */
+    border-radius: 1rem;
+    /* padding: 1rem; */
+    
+    border: 3px solid white;
+    
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+}
+
+

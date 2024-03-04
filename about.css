@@ -1,0 +1,23 @@
+body{
+background-image: url(Simple_Environment.jpeg);
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+color: wheat;
+
+text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    font-size: larger;
+    color: wheat;
+}
+.para{
+    color: wheat;
+}
+h3{
+    text-decoration: underline yellow;
+}

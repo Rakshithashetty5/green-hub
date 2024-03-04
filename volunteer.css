@@ -1,0 +1,22 @@
+
+form {
+    border: 3px solid #f1f1f1;
+  }
+  input[type=text],input[type=date] ,input[type=time],input[type=button]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: #f1f1f1;
+  }
+  button{
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 1px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+  }
